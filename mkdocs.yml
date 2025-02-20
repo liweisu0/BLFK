@@ -1,0 +1,4 @@
+site_name: BuildLangFromKid
+site_url: https://buildlangfromkid.cc/index
+theme:
+  name: material
